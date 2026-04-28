@@ -2,14 +2,6 @@
 
 A full-stack PHP/MySQL web application for managing students, teachers, classes, attendance, and grades across a school. Built with role-based access control for three user types: Admin, Teacher, and Student.
 
----
-
-## Screenshots
-
-> Place screenshots in a `/screenshots` folder and link them here after setup.
-
----
-
 ## Features
 
 **Admin**
